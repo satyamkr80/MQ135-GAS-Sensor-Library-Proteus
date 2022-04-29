@@ -24,3 +24,8 @@
 7. Click *'Ok'* to close the 'Properties window'.
 
 > This library is shared under the GPL-3.0 License. For more information, read the [License](https://github.com/asankaSovis/MQ135-GAS-Sensor-Library-Proteus/blob/main/LICENSE).
+=======
+# MQ135-GAS-Sensor-Library-Proteus
+
+A proteus library to simulate MQ135 Gas sensor.
+
